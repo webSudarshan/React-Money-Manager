@@ -1,0 +1,25 @@
+.history-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #cbd5e1;
+  width: 100%;
+  padding: 10px;
+}
+
+.del-button {
+  background-color: transparent;
+  cursor: pointer;
+  border: 0;
+  outline: none;
+  padding: 0;
+  margin: 0;
+}
+
+.del-icon {
+  width: 20px;
+}
+
+p {
+  width: 30%;
+}
